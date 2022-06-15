@@ -117,7 +117,13 @@ div.ex1 {
     text-decoration: none;
   }
 
-
+  footer a:hover{
+    text-decoration: none !important;
+    color: #360ea3;
+}
+footer a{
+    color: #130047;
+}
 
 
   @media only screen and (max-width: 600px) {
